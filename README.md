@@ -30,9 +30,7 @@ Exception handling
 * Run the sql script file that is attached to the project file
 
 ### If you are using VS Code
-```
-cd projects/project_1/OnlineStore/OnlineStore
-```
+
 * Press fn + F1 and select the project 
 * Run the program by clicking play button that is located at the navbar where there are other tabs like extension, explorer.
 
