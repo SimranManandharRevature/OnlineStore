@@ -4,25 +4,25 @@
 This is a ASP.NET Core API project utilizing Entity Framework Core, a SQL Database, and JavaScript front-end to create a Web Store Application that allows a user to create an account, view store locations, view store items, create an order and checkout.
 
 ## Technologies Used
-C#
-ADO.NET Entity Framework
-HTML5
-Microsoft SQL Server
-JavaScript
+* C#
+* ADO.NET Entity Framework
+* HTML5
+* Microsoft SQL Server
+* JavaScript
 
 ## Features
-Account registration
-User login
-View Stores
-View specific stores' products
-Create Order
-Checkout
+* Account registration
+* User login
+* View Stores
+* View specific stores' products
+* Create Order
+* Checkout
 
 ## To-do list:
 
-Display order histories
-Update inventory
-Exception handling
+* Display order histories
+* Update inventory
+* Exception handling
 
 ## Getting Started
 * Git clone command: git clone https://github.com/SimranManandharRevature/OnlineStore.git
