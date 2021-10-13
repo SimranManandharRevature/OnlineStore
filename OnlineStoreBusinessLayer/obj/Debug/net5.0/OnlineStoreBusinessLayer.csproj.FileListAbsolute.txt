@@ -1,0 +1,17 @@
+/Users/Contemplative/Documents/Revature/simran_code/projects/Project_1/OnlineStore/OnlineStore/OnlineStoreBusinessLayer/bin/Debug/net5.0/OnlineStoreBusinessLayer.deps.json
+/Users/Contemplative/Documents/Revature/simran_code/projects/Project_1/OnlineStore/OnlineStore/OnlineStoreBusinessLayer/bin/Debug/net5.0/OnlineStoreBusinessLayer.dll
+/Users/Contemplative/Documents/Revature/simran_code/projects/Project_1/OnlineStore/OnlineStore/OnlineStoreBusinessLayer/bin/Debug/net5.0/ref/OnlineStoreBusinessLayer.dll
+/Users/Contemplative/Documents/Revature/simran_code/projects/Project_1/OnlineStore/OnlineStore/OnlineStoreBusinessLayer/bin/Debug/net5.0/OnlineStoreBusinessLayer.pdb
+/Users/Contemplative/Documents/Revature/simran_code/projects/Project_1/OnlineStore/OnlineStore/OnlineStoreBusinessLayer/bin/Debug/net5.0/DBStoreContext.dll
+/Users/Contemplative/Documents/Revature/simran_code/projects/Project_1/OnlineStore/OnlineStore/OnlineStoreBusinessLayer/bin/Debug/net5.0/ModelsLayer.dll
+/Users/Contemplative/Documents/Revature/simran_code/projects/Project_1/OnlineStore/OnlineStore/OnlineStoreBusinessLayer/bin/Debug/net5.0/DBStoreContext.pdb
+/Users/Contemplative/Documents/Revature/simran_code/projects/Project_1/OnlineStore/OnlineStore/OnlineStoreBusinessLayer/bin/Debug/net5.0/ModelsLayer.pdb
+/Users/Contemplative/Documents/Revature/simran_code/projects/Project_1/OnlineStore/OnlineStore/OnlineStoreBusinessLayer/obj/Debug/net5.0/OnlineStoreBusinessLayer.csproj.AssemblyReference.cache
+/Users/Contemplative/Documents/Revature/simran_code/projects/Project_1/OnlineStore/OnlineStore/OnlineStoreBusinessLayer/obj/Debug/net5.0/OnlineStoreBusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Contemplative/Documents/Revature/simran_code/projects/Project_1/OnlineStore/OnlineStore/OnlineStoreBusinessLayer/obj/Debug/net5.0/OnlineStoreBusinessLayer.AssemblyInfoInputs.cache
+/Users/Contemplative/Documents/Revature/simran_code/projects/Project_1/OnlineStore/OnlineStore/OnlineStoreBusinessLayer/obj/Debug/net5.0/OnlineStoreBusinessLayer.AssemblyInfo.cs
+/Users/Contemplative/Documents/Revature/simran_code/projects/Project_1/OnlineStore/OnlineStore/OnlineStoreBusinessLayer/obj/Debug/net5.0/OnlineStoreBusinessLayer.csproj.CoreCompileInputs.cache
+/Users/Contemplative/Documents/Revature/simran_code/projects/Project_1/OnlineStore/OnlineStore/OnlineStoreBusinessLayer/obj/Debug/net5.0/OnlineStoreBusinessLayer.csproj.CopyComplete
+/Users/Contemplative/Documents/Revature/simran_code/projects/Project_1/OnlineStore/OnlineStore/OnlineStoreBusinessLayer/obj/Debug/net5.0/OnlineStoreBusinessLayer.dll
+/Users/Contemplative/Documents/Revature/simran_code/projects/Project_1/OnlineStore/OnlineStore/OnlineStoreBusinessLayer/obj/Debug/net5.0/ref/OnlineStoreBusinessLayer.dll
+/Users/Contemplative/Documents/Revature/simran_code/projects/Project_1/OnlineStore/OnlineStore/OnlineStoreBusinessLayer/obj/Debug/net5.0/OnlineStoreBusinessLayer.pdb

@@ -1,0 +1,481 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/Contemplative/Documents/Revature/simran_code/projects/Project_1/OnlineStore/OnlineStore/OnlineStore.Tests/OnlineStore.Tests.csproj": {}
+  },
+  "projects": {
+    "/Users/Contemplative/Documents/Revature/simran_code/projects/Project_1/OnlineStore/OnlineStore/DBStoreContext/DBStoreContext.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Contemplative/Documents/Revature/simran_code/projects/Project_1/OnlineStore/OnlineStore/DBStoreContext/DBStoreContext.csproj",
+        "projectName": "DBStoreContext",
+        "projectPath": "/Users/Contemplative/Documents/Revature/simran_code/projects/Project_1/OnlineStore/OnlineStore/DBStoreContext/DBStoreContext.csproj",
+        "packagesPath": "/Users/Contemplative/.nuget/packages/",
+        "outputPath": "/Users/Contemplative/Documents/Revature/simran_code/projects/Project_1/OnlineStore/OnlineStore/DBStoreContext/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/Contemplative/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/Contemplative/Documents/Revature/simran_code/projects/Project_1/OnlineStore/OnlineStore/ModelsLayer/ModelsLayer.csproj": {
+                "projectPath": "/Users/Contemplative/Documents/Revature/simran_code/projects/Project_1/OnlineStore/OnlineStore/ModelsLayer/ModelsLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "System.Diagnostics.Tools": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/Contemplative/Documents/Revature/simran_code/projects/Project_1/OnlineStore/OnlineStore/ModelsLayer/ModelsLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Contemplative/Documents/Revature/simran_code/projects/Project_1/OnlineStore/OnlineStore/ModelsLayer/ModelsLayer.csproj",
+        "projectName": "ModelsLayer",
+        "projectPath": "/Users/Contemplative/Documents/Revature/simran_code/projects/Project_1/OnlineStore/OnlineStore/ModelsLayer/ModelsLayer.csproj",
+        "packagesPath": "/Users/Contemplative/.nuget/packages/",
+        "outputPath": "/Users/Contemplative/Documents/Revature/simran_code/projects/Project_1/OnlineStore/OnlineStore/ModelsLayer/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/Contemplative/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/Contemplative/Documents/Revature/simran_code/projects/Project_1/OnlineStore/OnlineStore/OnlineStore.Tests/OnlineStore.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Contemplative/Documents/Revature/simran_code/projects/Project_1/OnlineStore/OnlineStore/OnlineStore.Tests/OnlineStore.Tests.csproj",
+        "projectName": "OnlineStore.Tests",
+        "projectPath": "/Users/Contemplative/Documents/Revature/simran_code/projects/Project_1/OnlineStore/OnlineStore/OnlineStore.Tests/OnlineStore.Tests.csproj",
+        "packagesPath": "/Users/Contemplative/.nuget/packages/",
+        "outputPath": "/Users/Contemplative/Documents/Revature/simran_code/projects/Project_1/OnlineStore/OnlineStore/OnlineStore.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/Contemplative/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/Contemplative/Documents/Revature/simran_code/projects/Project_1/OnlineStore/OnlineStore/DBStoreContext/DBStoreContext.csproj": {
+                "projectPath": "/Users/Contemplative/Documents/Revature/simran_code/projects/Project_1/OnlineStore/OnlineStore/DBStoreContext/DBStoreContext.csproj"
+              },
+              "/Users/Contemplative/Documents/Revature/simran_code/projects/Project_1/OnlineStore/OnlineStore/ModelsLayer/ModelsLayer.csproj": {
+                "projectPath": "/Users/Contemplative/Documents/Revature/simran_code/projects/Project_1/OnlineStore/OnlineStore/ModelsLayer/ModelsLayer.csproj"
+              },
+              "/Users/Contemplative/Documents/Revature/simran_code/projects/Project_1/OnlineStore/OnlineStore/OnlineStore/OnlineStore.csproj": {
+                "projectPath": "/Users/Contemplative/Documents/Revature/simran_code/projects/Project_1/OnlineStore/OnlineStore/OnlineStore/OnlineStore.csproj"
+              },
+              "/Users/Contemplative/Documents/Revature/simran_code/projects/Project_1/OnlineStore/OnlineStore/OnlineStoreBusinessLayer/OnlineStoreBusinessLayer.csproj": {
+                "projectPath": "/Users/Contemplative/Documents/Revature/simran_code/projects/Project_1/OnlineStore/OnlineStore/OnlineStoreBusinessLayer/OnlineStoreBusinessLayer.csproj"
+              },
+              "/Users/Contemplative/Documents/Revature/simran_code/projects/Project_1/OnlineStore/OnlineStore/OnlineStoreUi/OnlineStoreUi.csproj": {
+                "projectPath": "/Users/Contemplative/Documents/Revature/simran_code/projects/Project_1/OnlineStore/OnlineStore/OnlineStoreUi/OnlineStoreUi.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.9.4, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/Contemplative/Documents/Revature/simran_code/projects/Project_1/OnlineStore/OnlineStore/OnlineStore/OnlineStore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Contemplative/Documents/Revature/simran_code/projects/Project_1/OnlineStore/OnlineStore/OnlineStore/OnlineStore.csproj",
+        "projectName": "OnlineStore",
+        "projectPath": "/Users/Contemplative/Documents/Revature/simran_code/projects/Project_1/OnlineStore/OnlineStore/OnlineStore/OnlineStore.csproj",
+        "packagesPath": "/Users/Contemplative/.nuget/packages/",
+        "outputPath": "/Users/Contemplative/Documents/Revature/simran_code/projects/Project_1/OnlineStore/OnlineStore/OnlineStore/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/Contemplative/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/Contemplative/Documents/Revature/simran_code/projects/Project_1/OnlineStore/OnlineStore/ModelsLayer/ModelsLayer.csproj": {
+                "projectPath": "/Users/Contemplative/Documents/Revature/simran_code/projects/Project_1/OnlineStore/OnlineStore/ModelsLayer/ModelsLayer.csproj"
+              },
+              "/Users/Contemplative/Documents/Revature/simran_code/projects/Project_1/OnlineStore/OnlineStore/OnlineStoreBusinessLayer/OnlineStoreBusinessLayer.csproj": {
+                "projectPath": "/Users/Contemplative/Documents/Revature/simran_code/projects/Project_1/OnlineStore/OnlineStore/OnlineStoreBusinessLayer/OnlineStoreBusinessLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/Contemplative/Documents/Revature/simran_code/projects/Project_1/OnlineStore/OnlineStore/OnlineStoreBusinessLayer/OnlineStoreBusinessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Contemplative/Documents/Revature/simran_code/projects/Project_1/OnlineStore/OnlineStore/OnlineStoreBusinessLayer/OnlineStoreBusinessLayer.csproj",
+        "projectName": "OnlineStoreBusinessLayer",
+        "projectPath": "/Users/Contemplative/Documents/Revature/simran_code/projects/Project_1/OnlineStore/OnlineStore/OnlineStoreBusinessLayer/OnlineStoreBusinessLayer.csproj",
+        "packagesPath": "/Users/Contemplative/.nuget/packages/",
+        "outputPath": "/Users/Contemplative/Documents/Revature/simran_code/projects/Project_1/OnlineStore/OnlineStore/OnlineStoreBusinessLayer/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/Contemplative/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/Contemplative/Documents/Revature/simran_code/projects/Project_1/OnlineStore/OnlineStore/DBStoreContext/DBStoreContext.csproj": {
+                "projectPath": "/Users/Contemplative/Documents/Revature/simran_code/projects/Project_1/OnlineStore/OnlineStore/DBStoreContext/DBStoreContext.csproj"
+              },
+              "/Users/Contemplative/Documents/Revature/simran_code/projects/Project_1/OnlineStore/OnlineStore/ModelsLayer/ModelsLayer.csproj": {
+                "projectPath": "/Users/Contemplative/Documents/Revature/simran_code/projects/Project_1/OnlineStore/OnlineStore/ModelsLayer/ModelsLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/Contemplative/Documents/Revature/simran_code/projects/Project_1/OnlineStore/OnlineStore/OnlineStoreUi/OnlineStoreUi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Contemplative/Documents/Revature/simran_code/projects/Project_1/OnlineStore/OnlineStore/OnlineStoreUi/OnlineStoreUi.csproj",
+        "projectName": "OnlineStoreUi",
+        "projectPath": "/Users/Contemplative/Documents/Revature/simran_code/projects/Project_1/OnlineStore/OnlineStore/OnlineStoreUi/OnlineStoreUi.csproj",
+        "packagesPath": "/Users/Contemplative/.nuget/packages/",
+        "outputPath": "/Users/Contemplative/Documents/Revature/simran_code/projects/Project_1/OnlineStore/OnlineStore/OnlineStoreUi/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/Contemplative/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/Contemplative/Documents/Revature/simran_code/projects/Project_1/OnlineStore/OnlineStore/DBStoreContext/DBStoreContext.csproj": {
+                "projectPath": "/Users/Contemplative/Documents/Revature/simran_code/projects/Project_1/OnlineStore/OnlineStore/DBStoreContext/DBStoreContext.csproj"
+              },
+              "/Users/Contemplative/Documents/Revature/simran_code/projects/Project_1/OnlineStore/OnlineStore/ModelsLayer/ModelsLayer.csproj": {
+                "projectPath": "/Users/Contemplative/Documents/Revature/simran_code/projects/Project_1/OnlineStore/OnlineStore/ModelsLayer/ModelsLayer.csproj"
+              },
+              "/Users/Contemplative/Documents/Revature/simran_code/projects/Project_1/OnlineStore/OnlineStore/OnlineStoreBusinessLayer/OnlineStoreBusinessLayer.csproj": {
+                "projectPath": "/Users/Contemplative/Documents/Revature/simran_code/projects/Project_1/OnlineStore/OnlineStore/OnlineStoreBusinessLayer/OnlineStoreBusinessLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Serilog.Extensions.Logging.File": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

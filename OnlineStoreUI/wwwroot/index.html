@@ -1,0 +1,52 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>OnlineStore</title>
+    <link rel="stylesheet" href="css/site.css" />
+</head>
+<body>
+    <h3 onClick=Logout() id= "logout-btn" style="text-align: center; display: none">Logout</h3>
+    <h1 id="welcome-text">Welcome to my Online Store!</h1>
+
+    
+    <form id="login-form">
+        <input type="text" placeholder="Enter your name" name="name" onfocus="this.value=''" class="input-text" value=""><br>
+        <input type="text" placeholder="Enter your email address" onfocus="this.value=''" name="email" class="input-text" value=""><br>
+        <input type="submit" value="Login" class="login"> 
+        <span id="register-field">Click Register if you are a new customer :)
+          <input type="submit" value="Register" class="register">
+        </span>
+    </form>
+
+
+   
+
+    <div class="welcomeCustomer">
+      
+    </div>
+<div id="cart-container">
+    <h3 id = "cart-block" style="display: none">My Cart</h3>
+    <div id="cart-items">
+      
+    </div>
+    <span id = "total-block" style="display: none">Total : <span id="price-block"></span></span>
+
+
+</div>
+    <div id="stores">
+
+    </div>
+
+   
+
+    <div id="products">
+
+    </div>
+
+    
+    <script src="js/add-to-cart.js" type="text/javascript"></script>
+    <script src="js/display-and-select-store.js" type="text/javascript"></script>
+    <script src="js/login-or-register.js" type="text/javascript"></script>
+</body>
+</html>

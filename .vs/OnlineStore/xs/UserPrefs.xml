@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{87527BC1-AFE7-4B49-9DC7-324BE9B09EE9}|Default">
+  <MonoDevelop.Ide.ItemProperties.OnlineStore PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="OnlineStoreUI/Controllers/CustomerController.cs">
+    <Files>
+      <File FileName="OnlineStoreUi/Controllers/CustomerController.cs" Line="20" Column="39" IsPinned="True" />
+      <File FileName="OnlineStoreUi/Controllers/OrderController.cs" />
+      <File FileName="OnlineStoreUi/wwwroot/js/add-to-cart.js" />
+      <File FileName="OnlineStoreUi/wwwroot/js/display-and-select-store.js" />
+      <File FileName="OnlineStoreUi/wwwroot/js/login-or-register.js" />
+      <File FileName="OnlineStoreUi/wwwroot/css/site.css" />
+      <File FileName="OnlineStore.Tests/UnitTest1.cs" />
+      <File FileName="DBStoreContext/Models/OnlineStoreDBContext.cs" />
+      <File FileName="OnlineStoreUi/Startup.cs" />
+      <File FileName="OnlineStoreUi/appsettings.json" />
+      <File FileName="OnlineStoreUi/Program.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OnlineStore" expanded="True">
+            <Node name="DBStoreContext" expanded="True">
+              <Node name="Models" expanded="True" />
+            </Node>
+            <Node name="OnlineStore.Tests" expanded="True" />
+            <Node name="OnlineStoreUi" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="CustomerController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

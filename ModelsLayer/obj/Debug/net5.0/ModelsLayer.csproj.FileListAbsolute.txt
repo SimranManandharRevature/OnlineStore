@@ -1,0 +1,12 @@
+/Users/Contemplative/Documents/Revature/simran_code/projects/Project_1/OnlineStore/OnlineStore/ModelsLayer/bin/Debug/net5.0/ModelsLayer.deps.json
+/Users/Contemplative/Documents/Revature/simran_code/projects/Project_1/OnlineStore/OnlineStore/ModelsLayer/bin/Debug/net5.0/ModelsLayer.dll
+/Users/Contemplative/Documents/Revature/simran_code/projects/Project_1/OnlineStore/OnlineStore/ModelsLayer/bin/Debug/net5.0/ref/ModelsLayer.dll
+/Users/Contemplative/Documents/Revature/simran_code/projects/Project_1/OnlineStore/OnlineStore/ModelsLayer/bin/Debug/net5.0/ModelsLayer.pdb
+/Users/Contemplative/Documents/Revature/simran_code/projects/Project_1/OnlineStore/OnlineStore/ModelsLayer/obj/Debug/net5.0/ModelsLayer.csproj.AssemblyReference.cache
+/Users/Contemplative/Documents/Revature/simran_code/projects/Project_1/OnlineStore/OnlineStore/ModelsLayer/obj/Debug/net5.0/ModelsLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Contemplative/Documents/Revature/simran_code/projects/Project_1/OnlineStore/OnlineStore/ModelsLayer/obj/Debug/net5.0/ModelsLayer.AssemblyInfoInputs.cache
+/Users/Contemplative/Documents/Revature/simran_code/projects/Project_1/OnlineStore/OnlineStore/ModelsLayer/obj/Debug/net5.0/ModelsLayer.AssemblyInfo.cs
+/Users/Contemplative/Documents/Revature/simran_code/projects/Project_1/OnlineStore/OnlineStore/ModelsLayer/obj/Debug/net5.0/ModelsLayer.csproj.CoreCompileInputs.cache
+/Users/Contemplative/Documents/Revature/simran_code/projects/Project_1/OnlineStore/OnlineStore/ModelsLayer/obj/Debug/net5.0/ModelsLayer.dll
+/Users/Contemplative/Documents/Revature/simran_code/projects/Project_1/OnlineStore/OnlineStore/ModelsLayer/obj/Debug/net5.0/ref/ModelsLayer.dll
+/Users/Contemplative/Documents/Revature/simran_code/projects/Project_1/OnlineStore/OnlineStore/ModelsLayer/obj/Debug/net5.0/ModelsLayer.pdb
