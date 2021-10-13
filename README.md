@@ -25,7 +25,7 @@ Update inventory
 Exception handling
 
 ## Getting Started
-* Git clone command: git clone https://github.com/08162021-dotnet-uta/SimranManandharRepo1.git
+* Git clone command: git clone https://github.com/SimranManandharRevature/OnlineStore.git
 * Create database named OnlineStoreDB
 * Run the sql script file that is attached to the project file
 
